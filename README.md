@@ -9,3 +9,4 @@ When adding the high score, I could not figure out how to get all scores into an
 
 <img src="highscore.jpg" alt="highscore issue">
 
+Here is the link to the deployed application: https://brandpower.github.io/Coding-Quiz/
