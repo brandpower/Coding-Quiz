@@ -1,5 +1,7 @@
 # Coding-Quiz
 
+Link to access: https://brandpower.github.io/Coding-Quiz/
+ 
 This coding quiz poses the user with a  range of questions. 
 If the user answers the questions correctly, no penalty occurs, and they are shown the next question. If the user answers the question incorrectly, they lose 5 seconds off their time, and the next question is shown. Once all 5 questions are answered, or the timer runs out (whatever occurs first), the game ends. 
 
